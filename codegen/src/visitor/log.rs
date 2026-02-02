@@ -6,7 +6,7 @@ impl Function {
     /// Parse log data from the bytecode.
     ///
     /// WASM example:
-    /// ```
+    /// ```text
     /// i32.const 1048576   ;; offset
     /// i32.const 4         ;; 4 bytes
     /// ```
